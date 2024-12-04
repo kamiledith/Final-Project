@@ -1,9 +1,9 @@
 # Preproposal
 
 ## What idea(s) do you have for your final project?
-I am planning to develop code that compares your Instagram following and follower lists to identify users you follow who do not follow you back. 
-As a social media influencer, I and some of my colleagues have encountered this issue frequently, so this tool would be incredibly useful for managing our accounts more effectively. 
-I'd definitely use it myself in the future!
+ I'm building a snake game where the player collects food to grow the snake and avoid walls or itself. 
+ i'm using simple graphics and a grid system to make the game the speed increases as the snake grows 
+ and its tracking the score and hig scores. i also want the color of the snake to change after eating. 
 
 ## If you plan to collaborate with one or two classmates, what are their names?
 
